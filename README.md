@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Процесс установки
 
-You can use the [editor on GitHub](https://github.com/MykolaHodovychenko/python/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+1) Установить Anaconda (скачивать [здесь](https://www.anaconda.com/download/))
+  * Anaconda Navigator - оболочка для запуска программ и инструментов
+  * Anaconda Prompt - терминал для работы с Python
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Как использовать блокноты
 
-### Markdown
+1) Скачать блокнот и поместить внутри папки "Мои документы"
+2) Скачать Anaconda
+3) Найти и запустить Anaconda Navigator
+4) Найти notebook и запустить его
+5) Откроется браузер с Jupyter Notebook
+6) Найти загруженный блокнот и открыть его
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Для запуска нужной ячейки, выделяете ячейку и выбираете "Run cells" (сочетание Ctrl+Enter)
 
-```markdown
-Syntax highlighted code block
+## Блокноты
 
-# Header 1
-## Header 2
-### Header 3
+* Урок 1.Базовые сведения о переменных, ветвления, циклы, функции. Механизм слайсов (slices) [скачивание](https://goo.gl/XihwMS), [NBViewer](https://nbviewer.jupyter.org/urls/dl.dropbox.com/s/cbcitgrptoy3h1c/lesson1.ipynb)
 
-- Bulleted
-- List
+## Задания
 
-1. Numbered
-2. List
+* Урок 1. Сайт [CodingBat](www.codingbat.com). Зарегистрироваться и выполнить задачки из [Python/Warmup1] (http://codingbat.com/python/Warmup-1) и [Python/Warmup2](http://codingbat.com/python/Warmup-2)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MykolaHodovychenko/python/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
