@@ -17,7 +17,7 @@
 
 ## Блокноты
 
-* Урок 1.Базовые сведения о переменных, ветвления, циклы, функции. Механизм слайсов (slices) [скачивание](https://goo.gl/XihwMS), [NBViewer](https://nbviewer.jupyter.org/urls/dl.dropbox.com/s/cbcitgrptoy3h1c/lesson1.ipynb)
+* Урок 1.Базовые сведения о переменных, ветвления, циклы, функции. Механизм слайсов (slices) [скачать](https://goo.gl/XihwMS), [читать через NBViewer](https://nbviewer.jupyter.org/urls/dl.dropbox.com/s/cbcitgrptoy3h1c/lesson1.ipynb), [PDF](https://goo.gl/56d7Yk)
 
 ## Задания
 
