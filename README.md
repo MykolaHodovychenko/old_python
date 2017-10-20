@@ -10,7 +10,7 @@
 * Блокнот [скачать](https://goo.gl/4MykxH), [читать через NBViewer](https://nbviewer.jupyter.org/urls/dl.dropbox.com/s/ibal9sffp5z10cl/lesson2.ipynb), [PDF](https://goo.gl/JPZCxK)
 * Задание. TBD (21-22 октября)
 
-### Я тут первый раз, что мне делать?
+## Я тут первый раз, что мне делать?
 
 1. Установите дистрибутив Anaconda (см. "Установка Anaconda")
 2. Найдите в программах Windows папку Anaconda и запустите Anaconda Navigator
