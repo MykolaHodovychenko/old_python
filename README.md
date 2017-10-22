@@ -8,7 +8,7 @@
 ### Занятие 2. Работа с функциями, локальные и глобальные переменные. Исключения. Чтение и запись файлов. Сериализация с помощью pickle и shelve
 
 * Блокнот [скачать](https://goo.gl/4MykxH), [читать через NBViewer](https://nbviewer.jupyter.org/urls/dl.dropbox.com/s/ibal9sffp5z10cl/lesson2.ipynb), [PDF](https://goo.gl/JPZCxK)
-* Задание. TBD (21-22 октября)
+* Задание. [текст + корпус текстов](https://goo.gl/ZQqc6u), решение: [скачать](https://goo.gl/9LPhLV)
 
 ## Я тут первый раз, что мне делать?
 
