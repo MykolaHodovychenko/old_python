@@ -14,6 +14,8 @@
 * Блокнот [скачать](https://goo.gl/4MykxH), [читать через NBViewer](https://nbviewer.jupyter.org/urls/dl.dropbox.com/s/ibal9sffp5z10cl/lesson2.ipynb), [PDF](https://goo.gl/JPZCxK)
 * Задание. [текст + корпус текстов](https://goo.gl/ZQqc6u), решение: [скачать](https://goo.gl/9LPhLV)
 
+<br><br><br><br>
+
 # Дополнительная литература
 
 | Изображение | Описание | Ссылка | 
