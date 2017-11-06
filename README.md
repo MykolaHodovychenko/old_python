@@ -12,7 +12,7 @@
 ### Занятие 2. Работа с функциями, локальные и глобальные переменные. Исключения. Чтение и запись файлов. Сериализация с помощью pickle и shelve
 
 * Блокнот [скачать](https://goo.gl/4MykxH), [читать через NBViewer](https://nbviewer.jupyter.org/urls/dl.dropbox.com/s/ibal9sffp5z10cl/lesson2.ipynb), [PDF](https://goo.gl/JPZCxK)
-* Задание. [задание + корпус текстов](https://goo.gl/ZQqc6u), решение: [скачать](https://goo.gl/9LPhLV)
+* Задание. [задание](https://goo.gl/ryAqs8), [корпус текстов](https://goo.gl/ssL9aD), решение: [скачать](https://goo.gl/9LPhLV)
 
 ### Занятие 3. Основы объектно-ориентированного программирования на Python
 * Блокнот [скачать](https://goo.gl/zkf1ui), [читать через NBViewer](https://goo.gl/roUFaw), [PDF](https://goo.gl/VmbP1d)
