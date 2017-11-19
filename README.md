@@ -18,6 +18,11 @@
 * Блокнот [скачать](https://goo.gl/zkf1ui), [читать через NBViewer](https://goo.gl/roUFaw), [PDF](https://goo.gl/VmbP1d)
 * Задание. TBD (3 или 4 ноября)
 
+### Занятие 4. (Машинное обучение). Основы обучения с учителем. Метод KNN.
+* Презентация [скачать](https://goo.gl/wQLrzz)
+* Блокнот [скачать](https://goo.gl/4itXCF), [читать через NBViewer](https://goo.gl/H6HD8M), [PDF](https://goo.gl/9S7Kh5)
+* Наборы данных: [Ирисы Фишера](https://goo.gl/XXddGM)
+* Задание на занятие 4: [Wine recognition data](https://goo.gl/gHgikh)
 
 <br><br><br><br>
 
